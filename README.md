@@ -17,5 +17,5 @@ Quick facts:
 - 💬 Ask me about: coffee and the self improvement niche.
 - 📫 How to reach me: <a href="https://twitter.com/Pablo_MDD">Tweet me</a>. Bonus points if you'd like to chat in Portuguese or French.
 - 😄 Pronouns: He/Him
-
+- 💡 Fun fact: My profile pic was [generated with AI](https://github.com/MLH-Fellowship/neuro-art) from the style of [Claude Monet](https://www.wikiart.org/es/claude-monet).
 <p style="text-align:center;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablomdd&show_icons=true" alt="pablomdd stats" /></p>
