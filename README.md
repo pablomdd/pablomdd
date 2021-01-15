@@ -11,7 +11,7 @@ Some of the things I've been doing recently:
 **I'm exploring Summer 2021 opportunities at the moment.** My expected graduation date is December 2022.
 
 Quick facts:
-- 📚 I’m currently reading: Auriléin Geron's Hands-On Machine Learning.
+- 📚 I’m currently reading: Aurélien Géron's Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (curr ch.2).
 - 🐱‍💻 (ninja-hacker cat) I'm currently mastering: programming interview skills and DSAs.
 - 🤔 I’d could help you with: JS, React, Dart/Flutter and introductory ML (Python).
 - 💬 Ask me about: coffee and the self improvement niche.
