@@ -11,8 +11,7 @@ Some of the things I've been doing recently:
 - Google DSC Lead for IPN - UPIITA (20-21).
 
 Quick facts:
-- 📚 I’m currently reading: Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville (curr. ch. 2 - Linear Algebra).
-- 🐱‍💻 (ninja-hacker cat) I'm currently mastering: Computer Vision and Deep Learning for Computer Vision.
+- 📚 I’m currently learning: Computer Vision and Deep Learning for Computer Vision.
 - 🤔 I’d could help you with: JS, React, Dart/Flutter and introductory ML (Python).
 - 💬 Ask me about: coffee and the self improvement niche.
 - 📫 How to reach me: <a href="https://twitter.com/Pablo_MDD">Tweet me</a>. Bonus points if you'd like to chat in Portuguese or French.
