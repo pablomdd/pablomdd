@@ -6,7 +6,7 @@ Glad to announce I'll be interning this Summer 2022 at @Microsoft (May) and @Goo
 
 Some of the things I've been doing recently:
 
-- Research Assistant @ IPN's Computing Research Centre, Robotics and Mechatronics Lab, Fall 2021
+- Research Assistant @ IPN's Computing Research Centre (CIC - IPN), Robotics and Mechatronics Lab, Fall 2021
 - Software Engineer Intern @Google, Summer 2021
 - Software Engineering Intern @Nowports, Spring 2021
 - Explorer Fellow @MLH-Fellowship, Fall 2020.
