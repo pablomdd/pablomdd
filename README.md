@@ -2,10 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=pablomdd)
 <p align="center">I'm a mechatronics engineering student pursuing a software engineering career. I am a native of Ciudad del Carmen :mexico:, Mexico but I am based in Mexico City, and attend the Advanced Technologies School (UPIITA) of the National Polytechnic Institute of Mexico (IPN).</p>
 
-Glad to announce I'll be interning this Summer 2022 at @Microsoft (May) and @Google (August)!
-
 Some of the things I've been doing recently:
 
+- Software Engineer Intern @Microsoft
 - Research Assistant @ IPN's Computing Research Centre (CIC - IPN), Robotics and Mechatronics Lab, Fall 2021
 - Software Engineer Intern @Google, Summer 2021
 - Software Engineering Intern @Nowports, Spring 2021
