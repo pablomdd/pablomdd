@@ -1,15 +1,19 @@
 ### Hello there...
 ![](https://komarev.com/ghpvc/?username=pablomdd)
-<p align="center">I'm a mechatronics engineering student pursuing a software engineering career. I am a native of Ciudad del Carmen :mexico:, Mexico but I am based in Mexico City, and attend the Advanced Technologies School (UPIITA) of the National Polytechnic Institute of Mexico (IPN).</p>
+
+<p align="center">
+  I'm a software engineer with around 4 years of professional experience. I spent about 3 years as a frontend engineer (React JS, Next JS, Angular), and during the last year, I have worked mostly on backend engineering (Python, C#, Java), API design and microservices.</p>
+  
+I majored in mechatronics engineering at the Advanced Technologies School (UPIITA) of the National Polytechnic Institute of Mexico (IPN), but very early, I focused on building a software engineering career. I am a native of Ciudad del Carmen :mexico:, Mexico but I am based in Mexico City.
 
 Some of the things I've been doing recently:
 
-- Software Engineer Intern @Microsoft
-- Research Assistant @ IPN's Computing Research Centre (CIC - IPN), Robotics and Mechatronics Lab, Fall 2021
-- Software Engineer Intern @Google, Summer 2021
+- Software Engineer Intern @Google (Corp Engineering - Austin/NYC team), late Summer 2022
+- Software Engineer Intern @Microsoft (Microsoft Defender for Office - Redmond,WA), Summer 2022
+- Research Assistant @ IPN's Computing Research Centre (CIC - IPN) (Robotics and Mechatronics Lab), Fall 2021
+- Software Engineer Intern @Google (Google Research NYC team), Summer 2021
 - Software Engineering Intern @Nowports, Spring 2021
 - Explorer Fellow @MLH-Fellowship, Fall 2020.
-- Google DSC Lead for IPN - UPIITA (20-21).
 
 Quick facts:
 - 📚 I’m currently learning: Computer Vision and Deep Learning for Computer Vision.
